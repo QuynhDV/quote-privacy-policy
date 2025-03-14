@@ -3,7 +3,7 @@
 Last updated: 14.3.2025
 
 ## Introduction
-Remember is a quotes and memory journaling app that respects your privacy. This policy explains how we handle your information.
+QUOTES Keeper is a quotes and memory journaling app that respects your privacy. This policy explains how we handle your information.
 
 ## Information We Collect
 - We do not collect any personal information
