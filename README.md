@@ -1,4 +1,4 @@
-# Remember: Privacy Policy
+# QUOTES Keeper: Privacy Policy
 
 Last updated: 14.3.2025
 
